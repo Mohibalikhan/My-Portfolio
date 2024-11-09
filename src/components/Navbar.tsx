@@ -1,5 +1,4 @@
 import React from 'react'
-import { TiThMenu } from "react-icons/ti";
 
 const Navbar = () => {
   return (

@@ -1,11 +1,9 @@
 "use client";
 
-import Card from "@/components/Card";
 import Hero from "@/components/Hero";
 import Projects from "@/components/Projects";
 import Skills from "@/components/Skills";
 import React, { useEffect } from "react";
-import Image from "next/image";
 import Contact from "@/components/Contact";
 import About from "@/components/About";
 import AOS from 'aos';
